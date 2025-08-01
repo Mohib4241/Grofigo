@@ -1,3 +1,4 @@
+
 # Grofigo 🛒
 
 **Grofigo** is a full-stack eCommerce web application built with modern web technologies. It provides a complete solution for managing online stores, from product listings and user authentication to order processing and admin controls.
