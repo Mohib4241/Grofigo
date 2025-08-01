@@ -1,26 +1,3 @@
-# Grofigo 🛒
-
-**Grofigo** is a full-stack eCommerce web application built with modern web technologies. It provides a complete solution for managing online stores, from product listings and user authentication to order processing and admin controls.
-
-## 🔑 Key Features
-
-- Product catalog with filtering and search
-- Add-to-cart and checkout system
-- User authentication (JWT-based)
-- Order history and invoice generation
-- Admin panel for managing products and users
-- Responsive and mobile-friendly UI
-- MongoDB cloud integration via Atlas
-
-## 💻 Tech Stack
-
-- **Frontend**: Vue 3 / React, Tailwind CSS
-- **Backend**: FastAPI (or Express.js)
-- **Database**: MongoDB Atlas
-- **Authentication**: JWT
-- **Deployment**: Render / Vercel / Netlify
-
-## 📁 Project Structure
 
 # Grofigo 🛒
 
